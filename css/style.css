@@ -76,3 +76,10 @@ button {
 	margin-top: 30px;
 	color: #fff;
 }
+.heart.first{
+   background-color: black; 
+
+}
+button.active{
+   background-color: orange;
+}
